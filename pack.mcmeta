@@ -1,0 +1,11 @@
+{
+  "pack": {
+    "pack_format": 27,
+    "supported_formats": {
+      "min_inclusive": 27
+    },
+    "description": {
+      "text": "Randomizes the size of entities using a tag. v0.1.0"
+    }
+  }
+}

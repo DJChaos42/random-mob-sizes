@@ -1,0 +1,1 @@
+execute as @e[type=#c:scalable_mobs,type=!minecraft:player,tag=!found] run function mobsizes:resize
