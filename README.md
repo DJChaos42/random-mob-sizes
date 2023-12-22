@@ -3,6 +3,8 @@ This data pack randomly resizes mobs when they spawn in. Mobs can be larger or s
 
 Any mob in the "c:scalable_mobs" entity tag will be affected by the pack. Players are exempt from being resized.
 
+This pack will only work in Minecraft Snapshot 23w51a or later.
+
 By default, the following mobs will be resized:
 - Chicken
 - Cow
